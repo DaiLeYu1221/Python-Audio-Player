@@ -19,3 +19,21 @@ In that case, I shall take the opportunity to be a bit lazy.
 
 
 
+#V2.0版本
+为什么！V2.0还没有更新！！！
+作者：一堆BUG！你行你修啊！测试时耳朵差点没了！你想用史吗！
+
+（⚡⚡⚡）
+
+抱歉啊大家，V2.0目前来看...是不会更新的了...
+（完）
+
+注释：
+因Github平台原因，>25MB的文件上传不了，'EXE'文件请到我分享的123云盘链接下载！
+
+链接区：
+作者B站[https://space.bilibili.com/3461564273265329?spm_id_from=Github]
+作者官网[https://wenyuxiangxiang1221.wordpress.com/]
+123云盘（主要） 提取码:jzhq [https://www.123684.com/s/PIlVVv-BTtBd?]
+123云盘（备用） 提取码:jzhq [https://www.123912.com/s/PIlVVv-BTtBd?]
+直链（（先到我的网站，然后进行下载） [https://wenyuxiangxiang1221.wordpress.com/2025/05/18/python-audio-player-download/]
