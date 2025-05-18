@@ -37,4 +37,4 @@ In that case, I shall take the opportunity to be a bit lazy.
 [作者官网](https://wenyuxiangxiang1221.wordpress.com/)
 [123云盘（主要） 提取码:jzhq ](https://www.123684.com/s/PIlVVv-BTtBd?)
 [123云盘（备用） 提取码:jzhq ](https://www.123912.com/s/PIlVVv-BTtBd?)
-[直链 先到我的网站，然后进行下载](https://wenyuxiangxiang1221.wordpress.com/2025/05/18/python-audio-player-download/)
+[直链 （先到我的网站，然后根据指引进行下载）](https://wenyuxiangxiang1221.wordpress.com/2025/05/18/python-audio-player-download/)
